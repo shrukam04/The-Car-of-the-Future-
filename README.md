@@ -1,0 +1,2 @@
+# The-Car-of-the-Future-
+A car manufacturer known for making large automobiles is struggling with sales and has asked for your help in designing an energy efficient car. The given car dataset has attributes of car like MPG, Cylinders, Displacement, Horsepower, Weight, Acceleration, Model Year, US Made etc. Using the gathered data, we will determine which attributes may contribute to higher gas mileage so that we can design a more fuel-efficient automobile. To achieve more fuel-efficient automobile, we will build a predictive model.
